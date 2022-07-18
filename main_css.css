@@ -1,0 +1,90 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background: white;
+}
+
+.background {
+  position: relative;
+  width: 100%;
+  height: 1000px;
+  overflow: hidden;
+  margin-bottom: 500px;
+}
+
+.background video {
+  width: 100%;
+  height: 1200px;
+  position: relative;
+}
+
+#menu1 {
+  top: 10%;
+  margin-left: 800px;
+  font-size: 35px;
+  position: absolute;
+}
+
+#menu2 {
+  top: 10%;
+  position: absolute;
+  margin-left: 1000px;
+  float: left;
+  font-size: 35px;
+}
+
+#menu3 {
+  top: 10%;
+  position: absolute;
+  margin-left: 1200px;
+  float: left;
+  font-size: 35px;
+}
+
+#menu4 {
+  top: 10%;
+  position: absolute;
+  margin-left: 1500px;
+  float: left;
+  font-size: 35px;
+}
+
+#img {
+  margin-left: 200px;
+  width: 200px;
+  height: 130px;
+  position: absolute;
+}
+
+.photo {
+  position: absolute;
+  border: thin;
+  top: 6%;
+  width: 100%;
+  height: 130px;
+  background: gray;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.phototop {
+  position: absolute;
+  border: thin;
+  top: 0%;
+  background: gainsboro;
+  width: 100%;
+  height: 60px;
+}
+
+
+#top4 {
+  position: absolute;
+  margin-left: 1770px;
+  font-size: 18px;
+}
+
+#top5 {
+  position: absolute;
+
+  margin-left: 1840px;
+  font-size: 18px;
+}
